@@ -39,7 +39,6 @@ TAKE_HOME_ENTER_AI/
 │ ├── test_extract.py # Cliente para processar PDFs em lote
 │ ├── relatorio_extracao.json # Relatório de saída gerado após o teste
 │ ├── knowledge_base.json # Base incremental de conhecimento
-│ ├── *.pdf # PDFs de exemplo (OAB e Telas de Sistema)
 │ └── requirements.txt # Dependências do projeto
 │
 └── README.md # Documentação do projeto
