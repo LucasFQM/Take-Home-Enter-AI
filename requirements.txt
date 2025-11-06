@@ -8,3 +8,6 @@ Pillow
 diskcache
 torch
 torchvision
+PyMuPDF
+pytesseract
+
