@@ -108,7 +108,6 @@ class PDFExtractionService:
         return {"label": label, "extracted_text": text, "extracted_fields": fields}
 
 
-# Instâncias principais
 app = FastAPI(title="Take Home Enter AI - PDF Extractor API")
 knowledge_base = KnowledgeBase(Path(__file__).parent / "knowledge_base.json")
 extractor = PDFExtractor()
