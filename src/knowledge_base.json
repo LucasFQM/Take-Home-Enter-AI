@@ -1,0 +1,686 @@
+{
+  "carteira_oab": {
+    "nome": "string",
+    "numero_oab": "string"
+  },
+  "tela_sistema": [
+    {
+      "extraction_schema": {
+        "nome": "string",
+        "numero_oab": "string"
+      },
+      "extracted_fields": {
+        "nome": null,
+        "numero_oab": null
+      },
+      "text_snippet": "--- Página 1 ---\nConsuilta de Cobrança\n\nDetalhamento de saldos por parcelas: Data Referência: 05/09/2025 << Esconder Filtros\nData Referência: — Seleção de parcelas: Intervalo de :\nloa/o5/2028 — ) venc"
+    },
+    {
+      "extraction_schema": {
+        "nome": "string",
+        "numero_oab": "string"
+      },
+      "extracted_fields": {
+        "nome": null,
+        "numero_oab": null
+      },
+      "text_snippet": "--- Página 1 ---\nConsuilta de Cobrança\n\nDetalhamento de saldos por parcelas: Data Referência: 05/09/2025 << Esconder Filtros\nData Referência: — Seleção de parcelas: Intervalo de :\nloa/o5/2028 — ) venc"
+    },
+    {
+      "extraction_schema": {
+        "nome": "string",
+        "numero_oab": "string"
+      },
+      "extracted_fields": {
+        "nome": null,
+        "numero_oab": null
+      },
+      "text_snippet": "--- Página 1 ---\nConsuilta de Cobrança\n\nDetalhamento de saldos por parcelas: Data Referência: 05/09/2025 << Esconder Filtros\nData Referência: — Seleção de parcelas: Intervalo de :\nloa/o5/2028 — ) venc"
+    },
+    {
+      "extraction_schema": {
+        "data_referencia": "Data de referência das parcelas",
+        "saldo_vencido": "Valor vencido",
+        "saldo_a_vencer": "Valor a vencer",
+        "total": "Valor total"
+      },
+      "extracted_fields": {
+        "data_referencia": null,
+        "saldo_vencido": null,
+        "saldo_a_vencer": null,
+        "total": "12/10/2025 0 CONSIGNADO 0,00 76.871,20 76.871,20"
+      },
+      "text_snippet": "--- Página 1 ---\nConsuilta de Cobrança\n\nDetalhamento de saldos por parcelas: Data Referência: 05/09/2025 << Esconder Filtros\nData Referência: — Seleção de parcelas: Intervalo de :\nloa/o5/2028 — ) venc"
+    },
+    {
+      "extraction_schema": {
+        "data_referencia": "Data de referência das parcelas",
+        "saldo_vencido": "Valor vencido",
+        "saldo_a_vencer": "Valor a vencer",
+        "total": "Valor total"
+      },
+      "extracted_fields": {
+        "data_referencia": null,
+        "saldo_vencido": null,
+        "saldo_a_vencer": null,
+        "total": "12/10/2025 0 CONSIGNADO 0,00 76.871,20 76.871,20"
+      },
+      "text_snippet": "--- Página 1 ---\nConsuilta de Cobrança\n\nDetalhamento de saldos por parcelas: Data Referência: 05/09/2025 << Esconder Filtros\nData Referência: — Seleção de parcelas: Intervalo de :\nloa/o5/2028 — ) venc"
+    },
+    {
+      "extraction_schema": {
+        "data_referencia": "Data de referência das parcelas",
+        "saldo_vencido": "Valor vencido",
+        "saldo_a_vencer": "Valor a vencer",
+        "total": "Valor total"
+      },
+      "extracted_fields": {
+        "data_referencia": null,
+        "saldo_vencido": null,
+        "saldo_a_vencer": null,
+        "total": "12/10/2025 0 CONSIGNADO 0,00 76.871,20 76.871,20"
+      },
+      "text_snippet": "--- Página 1 ---\nConsuilta de Cobrança\n\nDetalhamento de saldos por parcelas: Data Referência: 05/09/2025 << Esconder Filtros\nData Referência: — Seleção de parcelas: Intervalo de :\nloa/o5/2028 — ) venc"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0,00",
+      "saldo_a_vencer": "0,00",
+      "total": "12/10/2025 0 CONSIGNADO 0,00 76.871,20 76.871,20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0,00",
+      "saldo_a_vencer": "76.871,20",
+      "total": "12/10/2025 0 CONSIGNADO 0,00 76.871,20 76.871,20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0,00",
+      "saldo_a_vencer": "76.871,20",
+      "total": "12/10/2025 0 CONSIGNADO 0,00 76.871,20 76.871,20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "76.871,20",
+      "saldo_a_vencer": "76.871,20",
+      "total": "12/10/2025 0 CONSIGNADO 0,00 76.871,20 76.871,20"
+    }
+  ],
+  "oab_1": [
+    {
+      "nome": null,
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "JOANA D'ARC",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": null,
+      "numero_oab": "101943"
+    },
+    {
+      "nome": null,
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "JOANA D'ARC",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "JOANA D'ARC",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "JOANA",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "CONSELHO SECCIONAL",
+      "numero_oab": null
+    },
+    {
+      "nome": "CONSELHO SECCIONAL",
+      "numero_oab": null
+    },
+    {
+      "nome": "CONSELHO SECCIONAL",
+      "numero_oab": null
+    },
+    {
+      "nome": "JOANA D'ARC",
+      "numero_oab": null
+    },
+    {
+      "nome": "JOANA D'ARC",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "JOANA",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "JOANA",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "JOANA",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "JOANA",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "JOANA",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "JOANA",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "JOANA",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "JOANA",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "JOANA",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "JOANA",
+      "numero_oab": "101943"
+    }
+  ],
+  "oab_2": [
+    {
+      "nome": null,
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "LUIS FILIPE ARAUJO AMARAL",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": null,
+      "numero_oab": "101943"
+    },
+    {
+      "nome": null,
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "LUIS FILIPE aRaUJO aMARaL",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "LUIS FILIPE aRaUJO aMARaL",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "LUIS FILIPE ARAUJO AMARAL",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "LUIS FILIPE ARAUJO AMARAL",
+      "numero_oab": null
+    },
+    {
+      "nome": "LUIS FILIPE ARAUJO AMARAL",
+      "numero_oab": null
+    },
+    {
+      "nome": "LUIS FILIPE ARAUJO AMARAL",
+      "numero_oab": null
+    },
+    {
+      "nome": "LUIS FILIPE ARAUJO AMARAL",
+      "numero_oab": null
+    },
+    {
+      "nome": "LUIS FILIPE ARAUJO AMARAL",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "LUIS FILIPE ARAUJO AMARAL",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "LUIS FILIPE ARAUJO AMARAL",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "LUIS FILIPE ARAUJO AMARAL",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "LUIS FILIPE ARAUJO AMARAL",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "LUIS FILIPE ARAUJO AMARAL",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "LUIS FILIPE ARAUJO AMARAL",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "LUIS FILIPE ARAUJO AMARAL",
+      "numero_oab": "101943"
+    }
+  ],
+  "oab_3": [
+    {
+      "nome": null,
+      "numero_oab": "01943"
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": "01943"
+    },
+    {
+      "nome": null,
+      "numero_oab": "01943"
+    },
+    {
+      "nome": null,
+      "numero_oab": "01943"
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": null
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": null
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": null
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": null
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": "101943"
+    },
+    {
+      "nome": "SON GOKU",
+      "numero_oab": "101943"
+    }
+  ],
+  "tela_sistema_1": [
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "76.871,20",
+      "saldo_a_vencer": "76.871,20",
+      "total": "12/10/2025 0 CONSIGNADO 0,00 76.871,20 76.871,20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "2025",
+      "saldo_a_vencer": "0,00",
+      "total": "0,00"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0,00",
+      "saldo_a_vencer": "0,00",
+      "total": "12/10/2025 0 CONSIGNADO 0,00 76.871,20 76.871,20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0,00",
+      "saldo_a_vencer": "0,00",
+      "total": "12/10/2025 0 CONSIGNADO 0,00 76.871,20 76.871,20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "76.871,20",
+      "saldo_a_vencer": "76.871,20",
+      "total": "76.871,20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "76.871,20",
+      "saldo_a_vencer": "76.871,20",
+      "total": "76.871,20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0,00",
+      "saldo_a_vencer": "76.871,20",
+      "total": "76.871,20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0,00",
+      "saldo_a_vencer": "76.871,20",
+      "total": "76.871,20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0,00",
+      "saldo_a_vencer": "76.871,20",
+      "total": "76.871,20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0,00",
+      "saldo_a_vencer": "76.871,20",
+      "total": "76.871,20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0,00",
+      "saldo_a_vencer": "76.871,20",
+      "total": "76.871,20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0.00",
+      "saldo_a_vencer": "76871.20",
+      "total": "76871.20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0.00",
+      "saldo_a_vencer": "76871.20",
+      "total": "76871.20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0.00",
+      "saldo_a_vencer": "76871.20",
+      "total": "76871.20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0.00",
+      "saldo_a_vencer": "76871.20",
+      "total": "76871.20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0.00",
+      "saldo_a_vencer": "76871.20",
+      "total": "76871.20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0.00",
+      "saldo_a_vencer": "76871.20",
+      "total": "76871.20"
+    },
+    {
+      "data_referencia": "05/09/2025",
+      "saldo_vencido": "0.00",
+      "saldo_a_vencer": "76871.20",
+      "total": "76871.20"
+    }
+  ],
+  "tela_sistema_2": [
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2.372,64",
+      "saldo_a_vencer": "2.372,64",
+      "total": "2.372,64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "76709970",
+      "saldo_a_vencer": "2.372,64",
+      "total": "2.372,64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2.372,64",
+      "saldo_a_vencer": "2.372,64",
+      "total": "2.372,64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2.372,64",
+      "saldo_a_vencer": "2.372,64",
+      "total": "2.372,64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2.372,64",
+      "saldo_a_vencer": null,
+      "total": "2.372,64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2.372,64",
+      "saldo_a_vencer": null,
+      "total": "2.372,64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2.372,64",
+      "saldo_a_vencer": null,
+      "total": "2.372,64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2.372,64",
+      "saldo_a_vencer": null,
+      "total": "2.372,64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2.372,64",
+      "saldo_a_vencer": null,
+      "total": "2.372,64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2372.64",
+      "saldo_a_vencer": null,
+      "total": "2372.64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2372.64",
+      "saldo_a_vencer": null,
+      "total": "2372.64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2372.64",
+      "saldo_a_vencer": null,
+      "total": "2372.64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2372.64",
+      "saldo_a_vencer": null,
+      "total": "2372.64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2372.64",
+      "saldo_a_vencer": null,
+      "total": "2372.64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2372.64",
+      "saldo_a_vencer": null,
+      "total": "2372.64"
+    },
+    {
+      "data_referencia": null,
+      "saldo_vencido": "2372.64",
+      "saldo_a_vencer": null,
+      "total": "2372.64"
+    }
+  ],
+  "tela_sistema_3": [
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": "2021",
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    },
+    {
+      "data_referencia": "04/02/2021",
+      "saldo_vencido": null,
+      "saldo_a_vencer": null,
+      "total": null
+    }
+  ]
+}

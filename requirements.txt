@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pdf2image
+easyocr
+opencv-python-headless
+Pillow
+diskcache
+torch
+torchvision
